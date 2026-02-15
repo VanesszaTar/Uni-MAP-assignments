@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Compiled Java files
+out/
+*.class
+
+# Build folders
+build/
+
+# Mac
+.DS_Store
